@@ -1,0 +1,14 @@
+.Navbar {
+    height: 10vh;
+    width: 100%;
+}
+
+.Navegadores {
+    color: white;
+    text-decoration: none;
+}
+
+.Navegadores:hover {
+    color: white;
+    text-decoration: none;
+}
